@@ -8,11 +8,12 @@ const styles=StyleSheet.create({
 })
 
 
-const Login = () => {
+const Forgot = () => {
   return (
     <View>
+        <Text>Hello Forgot</Text>
       <TextInput placeholder="Enter Name" />
     </View>
   );
 };
-export default Login;
+export default Forgot;
